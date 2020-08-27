@@ -1,10 +1,4 @@
-# xwbank2020_baseline_keras（来自队伍:最大的梦想家）
- “2020创青春·交子杯” 新网银行金融科技挑战赛AI算法赛道baseline
-
-
-
-# 比赛地址
-https://www.kesci.com/custom_landing/xwbank
+# xwbank2020_baseline_keras（From 最大的梦想家）
 ##  score :0.77633
 
 ## Note:
