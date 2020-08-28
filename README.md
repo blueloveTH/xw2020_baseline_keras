@@ -1,4 +1,4 @@
-# xwbank2020_baseline_keras（From 最大的梦想家）
+# xw2020_baseline_keras（From 最大的梦想家）
 ##  score :0.77633
 
 ## Note:
